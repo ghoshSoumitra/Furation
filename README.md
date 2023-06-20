@@ -24,8 +24,8 @@ This project is a simple RESTful API that performs CRUD operations on a collecti
 2. The API will be accessible at `http://localhost:3000/api/items`.
 3. Use Postman to make HTTP requests to the API endpoints.
 
-get('http://localhost:3000/api/items')--to get all the items in collection
-get('http://localhost:3000/api/items/:id')--to get a specific item from the collection
-post('http://localhost:3000/api/items')---to create a new item
-put('http://localhost:3000/api/items/:id')--to update an existing item
+get('http://localhost:3000/api/items')--to get all the items in collection<br>
+get('http://localhost:3000/api/items/:id')--to get a specific item from the collection<br>
+post('http://localhost:3000/api/items')---to create a new item<br>
+put('http://localhost:3000/api/items/:id')--to update an existing item<br>
 delete('http://localhost:3000/api/items/:id')--to delete a specific item
