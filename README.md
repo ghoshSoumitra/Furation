@@ -10,7 +10,7 @@ This project is a simple RESTful API that performs CRUD operations on a collecti
 ## Installation
 
 1. Clone this repository: `https://github.com/ghoshSoumitra/Furation`
-2. Navigate to the project directory: `cd your-project`
+2. Navigate to the project directory: `cd Furation`
 3. Install the dependencies: `npm install`
 
 ## Configuration
